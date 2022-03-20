@@ -343,11 +343,5 @@ python3 Code/7-visualization.py
 - [ ] Visualize on WSI level.
 - [ ] Create a web interface. 
 
-# Sources
-
-1. Jason Wei, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour, "Pathologist-level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks", Scientific Reports;9:3358 (2019).
-
-2. Gertych, A., Swiderska-Chadaj, Z., Ma, Z. et al. Convolutional neural networks can accurately distinguish four histologic growth patterns of lung adenocarcinoma in digital slides. Sci Rep 9, 1483 (2019). (https://doi.org/10.1038/s41598-018-37638-9) 
-
 # License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
